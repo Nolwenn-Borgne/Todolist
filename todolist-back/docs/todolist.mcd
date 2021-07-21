@@ -1,0 +1,3 @@
+tasks: title, status, completion, category_id
+belongs to, 11 task, 0N category:
+categories: name, status

@@ -1,0 +1,3 @@
+task: id, title, status, completion, category_id
+EST RELIE, 11 task, 0N category:
+category: id, nom, status
